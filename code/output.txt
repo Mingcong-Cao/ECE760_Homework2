@@ -1,0 +1,13 @@
+split is: x_1 threshold = 0.00 split entrophy: 0.68  info gain: 0.04  gain ratio: 0.06 
+split is: x_1 threshold = 0.10 split entrophy: 0.44  info gain: 0.04  gain ratio: 0.10 
+split is: x_2 threshold = -2.00 split entrophy: 0.00  info gain: 0.00  gain ratio: 0.00 
+split is: x_2 threshold = -1.00 split entrophy: 0.44  info gain: 0.04  gain ratio: 0.10 
+split is: x_2 threshold = 0.00 split entrophy: 0.68  info gain: 0.04  gain ratio: 0.06 
+split is: x_2 threshold = 1.00 split entrophy: 0.85  info gain: 0.00  gain ratio: 0.01 
+split is: x_2 threshold = 2.00 split entrophy: 0.95  info gain: 0.00  gain ratio: 0.00 
+split is: x_2 threshold = 3.00 split entrophy: 0.99  info gain: 0.02  gain ratio: 0.02 
+split is: x_2 threshold = 4.00 split entrophy: 0.99  info gain: 0.05  gain ratio: 0.05 
+split is: x_2 threshold = 5.00 split entrophy: 0.95  info gain: 0.11  gain ratio: 0.11 
+split is: x_2 threshold = 6.00 split entrophy: 0.85  info gain: 0.20  gain ratio: 0.24 
+split is: x_2 threshold = 7.00 split entrophy: 0.68  info gain: 0.04  gain ratio: 0.06 
+split is: x_2 threshold = 8.00 split entrophy: 0.44  info gain: 0.19  gain ratio: 0.43 
